@@ -2,6 +2,8 @@
 
 **CEO at [Autosapien](https://autosapien.com) | Architect & Solo Dev at [xEHR](https://xehr.io) | Agentic Dev at [RCM Employee](https://rcmemployee.com)**
 
+Agentic AI & Robotics Developer | US Healthcare Software Developer | EHR/EMR & PM (RestfulAPI, FHIR, EDI, HIPAA compliance) | Medical Biller
+
 Building things at the intersection of AI, Security, and Healthcare. I believe AI agents are going autonomous faster than our ability to trust them. So I'm building the tools to fix that.
 
 ## What I'm Building
