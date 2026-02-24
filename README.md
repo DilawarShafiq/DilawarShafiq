@@ -1,6 +1,6 @@
 # Hey, I'm Dilawar
 
-**CEO [Autosapien](https://autosapien.com) | Architect & Solo Dev [xEHR.io](https://xehr.io) | Agentic Dev [RCM Employee](https://rcmemployee.com)**
+**CEO at [Autosapien](https://autosapien.com) | Architect & Solo Dev at [xEHR](https://xehr.io) | Agentic Dev at [RCM Employee](https://rcmemployee.com)**
 
 Building things at the intersection of AI, Security, and Healthcare. I believe AI agents are going autonomous faster than our ability to trust them. So I'm building the tools to fix that.
 
