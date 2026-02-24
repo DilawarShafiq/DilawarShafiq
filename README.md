@@ -1,6 +1,6 @@
 # Hey, I'm Dilawar
 
-**CEO at [Autosapien](https://autosapien.com) | Architect & Solo Dev at [xEHR](https://xehr.io) | Agentic Dev at [RCM Employee](https://rcmemployee.com)**
+**CEO at [Autosapien](https://autosapien.com) | Architect & Developer at [xEHR](https://xehr.io) | Agentic Dev at [RCM Employee](https://rcmemployee.com)**
 
 Agentic AI & Robotics Developer | US Healthcare Software Developer | EHR/EMR & PM (RestfulAPI, FHIR, EDI, HIPAA compliance) | Medical Biller
 
