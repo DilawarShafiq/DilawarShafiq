@@ -1,8 +1,8 @@
 # Hey, I'm Dilawar
 
-**Building things at the intersection of AI, Security, and Healthcare.**
+**CEO [@autosapien.com](https://autosapien.com) | Architect & Solo Dev [@xehr.io](https://xehr.io) | Agentic Dev [@rcmemployee.com](https://rcmemployee.com)**
 
-I believe AI agents are going autonomous faster than our ability to trust them. So I'm building the tools to fix that.
+Building things at the intersection of AI, Security, and Healthcare. I believe AI agents are going autonomous faster than our ability to trust them. So I'm building the tools to fix that.
 
 ## What I'm Building
 
@@ -12,7 +12,7 @@ I believe AI agents are going autonomous faster than our ability to trust them. 
 | [**Unworldly**](https://github.com/DilawarShafiq/unworldly) | The flight recorder for AI agents — record, replay, and audit everything they do |
 | [**RedTeam Arena**](https://github.com/DilawarShafiq/redteam-arena) | AI vs AI adversarial security testing platform |
 | [**Code Provenance**](https://github.com/DilawarShafiq/code-provenance) | Detect AI-generated code, find stolen code, catch license violations |
-| [**Socratic Debugger**](https://github.com/DilawarShafiq/socratic-debugger) | The anti-AI — teaches you to debug instead of debugging for you |
+| [**Nietzschian Debugger**](https://github.com/DilawarShafiq/nietzschian-debugger) | The anti-AI — what doesn't kill your code makes it stronger |
 
 ### Healthcare & Enterprise
 | Project | What it does |
@@ -43,7 +43,9 @@ I'm building the infrastructure layer that makes autonomous AI agents safe, obse
 ## Let's Connect
 
 - Based in **Lahore, Pakistan**
-- Company: **[AutoSapien](https://github.com/DilawarShafiq/autosapien)**
+- CEO: **[AutoSapien](https://autosapien.com)** — AI & Robotics
+- Architect: **[xEHR.io](https://xehr.io)** — AI-powered EHR/EMR
+- Agentic Dev: **[RCM Employee](https://rcmemployee.com)** — Healthcare AI
 - Always open to collaborating on AI security and healthcare AI
 
 ---
