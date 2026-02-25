@@ -25,14 +25,14 @@ Building things at the intersection of AI, Security, and Healthcare. I believe A
 ## Tech Stack
 
 ```
-TypeScript  ████████████████████░░  90%
-Python      ██████████░░░░░░░░░░░  45%
+Python      ████████████████████░░  95%
 AI/ML       ████████████████░░░░░  75%
+TypeScript  ██████████░░░░░░░░░░░  40%
 ```
 
-**Daily drivers:** TypeScript, Python, Node.js, React, Next.js
+**Daily drivers:** Python, Click, FastAPI, Rich, pytest, asyncio
 
-**AI:** Claude, GPT, LangChain, Vector DBs, Agent frameworks
+**AI:** Claude, GPT, LangChain, Vector DBs, Agent frameworks, Anthropic SDK
 
 **Healthcare:** FHIR, HL7, EDI, HIPAA, ICD-10, CPT, RCM
 
