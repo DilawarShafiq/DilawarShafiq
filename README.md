@@ -19,8 +19,9 @@ Building things at the intersection of AI, Security, and Healthcare. I believe A
 ### Healthcare & Enterprise
 | Project | What it does |
 |---------|-------------|
-| [**AutoSapien**](https://github.com/DilawarShafiq/autosapien) | AI & Robotics — humanoid robots, healthcare AI, industrial automation |
-| **xEHR.io** | AI-powered EHR/EMR platform (HIPAA, FHIR, HL7) |
+| [**Autosapien**](https://autosapien.com) | AI & Robotics — humanoid robots, healthcare AI, industrial automation |
+| [**xEHR**](https://xehr.io) | AI-powered EHR/EMR platform (HIPAA, FHIR, HL7) |
+| [**RCM Automation with Agentic AI**](https://rcmemployee.com) | Patient Registration, Eligibility Verification, Prior Auth, Coding, Claim Submission, A/R follow up and denial fixation, and Appeal submission. All through autonomous agents |
 
 ## Tech Stack
 
