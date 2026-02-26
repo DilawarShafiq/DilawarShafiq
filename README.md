@@ -46,7 +46,7 @@ I'm building the infrastructure layer that makes autonomous AI agents safe, obse
 ## Let's Connect
 
 - Based in **Lahore, Pakistan**
-- CEO: **[AutoSapien](https://autosapien.com)** — AI & Robotics
+- CEO: **[Autosapien](https://autosapien.com)** — AI & Robotics
 - Architect: **[xEHR.io](https://xehr.io)** — AI-powered EHR/EMR
 - Agentic Dev: **[RCM Employee](https://rcmemployee.com)** — Healthcare AI
 - Always open to collaborating on AI security and healthcare AI
