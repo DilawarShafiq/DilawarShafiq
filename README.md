@@ -10,7 +10,7 @@ Building at the intersection of **AI, Security, and Healthcare**. I believe AI a
 
 ---
 
-## 🐫 Just launched — Camel AI
+## 🐫 Camel AI
 
 **[Camel AI](https://github.com/DilawarShafiq/camel-ai)** — an AI that operates real software through its screen. It **tests** any web or desktop app and hands a machine-readable **fix-brief to your AI coder**, and **automates** workflows (medical billing, finance, marketing — anything with a UI). The only API it ever needs is an LLM API; it never needs the target app's API, because it drives the UI like a human. → **[dilawarshafiq.github.io/camel-ai](https://dilawarshafiq.github.io/camel-ai/)**
 
