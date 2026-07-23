@@ -35,7 +35,7 @@ Building at the intersection of **AI, Security, and Healthcare**. I believe AI a
 |---------|-------------|
 | [**Autosapien**](https://autosapien.com) | AI & Robotics — humanoid robots, healthcare AI, industrial automation |
 | [**xEHR**](https://xehr.io) | AI-powered EHR/EMR platform (HIPAA, FHIR, HL7) |
-| [**RCM AI Employees**](https://rcmemployee.com) | Autonomous agents for the full revenue cycle: registration, eligibility, prior auth, coding, claims, A/R & denials, appeals |
+| [**RCM Employee**](https://rcmemployee.com) | US Medical Billing automation with autonomous agents for the full revenue cycle: registration, eligibility, prior auth, coding, claims, A/R & denials, appeals |
 | [**Skillfull**](https://github.com/DilawarShafiq/skillfull) | Comprehensive US healthcare RCM skills — Medicare, coding, billing |
 
 ## Tech Stack
