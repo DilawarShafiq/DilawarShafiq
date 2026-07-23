@@ -8,12 +8,6 @@ Building at the intersection of **AI, Security, and Healthcare**. I believe AI a
 
 <img src="https://github-readme-stats.vercel.app/api?username=DilawarShafiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilawarShafiq&layout=compact&theme=tokyonight&hide_border=true" height="160">
 
----
-
-## 🐫 Camel AI
-
-**[Camel AI](https://github.com/DilawarShafiq/camel-ai)** — an AI that operates real software through its screen. It **tests** any web or desktop app and hands a machine-readable **fix-brief to your AI coder**, and **automates** workflows (medical billing, finance, marketing — anything with a UI). The only API it ever needs is an LLM API; it never needs the target app's API, because it drives the UI like a human. → **[dilawarshafiq.github.io/camel-ai](https://dilawarshafiq.github.io/camel-ai/)**
-
 ## What I'm Building
 
 ### 🛡️ AI Security & Observability
@@ -62,4 +56,4 @@ I build the infrastructure layer that makes autonomous AI agents safe, observabl
 
 ---
 
-*Running AI agents without watching them? Try **[Unworldly](https://github.com/DilawarShafiq/unworldly)**. Testing or automating software with AI? Try **[Camel AI](https://github.com/DilawarShafiq/camel-ai)**.*
+*Running AI agents without watching them? Try **[Unworldly](https://github.com/DilawarShafiq/unworldly)**.*
