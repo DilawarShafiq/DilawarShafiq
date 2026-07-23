@@ -6,7 +6,12 @@ Agentic AI & Robotics Developer · US Healthcare Software (EHR/EMR, FHIR, EDI, H
 
 Building at the intersection of **AI, Security, and Healthcare**. I believe AI agents are going autonomous faster than our ability to trust them — so I build the tools that make them safe, observable, and accountable.
 
-<img src="https://github-readme-stats.vercel.app/api?username=DilawarShafiq&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilawarShafiq&layout=compact&theme=tokyonight&hide_border=true" height="160">
+[![Follow](https://img.shields.io/github/followers/DilawarShafiq?label=Follow&style=social)](https://github.com/DilawarShafiq)
+&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-4f8cff)
+![Healthcare AI](https://img.shields.io/badge/Healthcare_AI-16a34a)
+![AI Security](https://img.shields.io/badge/AI_Security-dc2626)
 
 ## What I'm Building
 
