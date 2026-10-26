@@ -1,4 +1,4 @@
-# Hey, I'm Dilawar Khan Gopang
+# Hey, I'm Dilawar
 
 Agentic AI Developer & Robotics Enthusiast · Experienced in US Healthcare Software Development (EHR/EMR, FHIR, EDI, HIPAA, RESTful APIs) · Poet · BA Philosophy
 
