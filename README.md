@@ -1,10 +1,7 @@
-# Hey, I'm Muhammad Dilawar Shafiq
+# Hey, I'm Dilawar Khan Gopang
 
-**CEO at [Autosapien](https://autosapien.com) · Architect & Developer at [xEHR](https://xehr.io) · Agentic Dev at [RCM AI Employees](https://rcmemployee.com)**
+Agentic AI Developer & Robotics Enthusiast · Experienced in US Healthcare Software Development (EHR/EMR, FHIR, EDI, HIPAA, RESTful APIs) · Poet · BA Philosophy
 
-Agentic AI & Robotics Developer · US Healthcare Software (EHR/EMR, FHIR, EDI, HIPAA, RESTful APIs) · Medical Biller
-
-Building at the intersection of **AI, Security, and Healthcare**. I believe AI agents are going autonomous faster than our ability to trust them — so I build the tools that make them safe, observable, and accountable.
 
 [![Follow](https://img.shields.io/github/followers/DilawarShafiq?label=Follow&style=social)](https://github.com/DilawarShafiq)
 &nbsp;
@@ -15,7 +12,7 @@ Building at the intersection of **AI, Security, and Healthcare**. I believe AI a
 
 ## What I'm Building
 
-### 🛡️ AI Security & Observability
+### 🛡️ Projects for everyone and no one
 | Project | What it does |
 |---------|-------------|
 | [**Unworldly**](https://github.com/DilawarShafiq/unworldly) | The flight recorder for AI agents — tamper-proof, ISO 42001 + HIPAA-compliant audit trails you can record, replay, and audit |
@@ -34,29 +31,23 @@ Building at the intersection of **AI, Security, and Healthcare**. I believe AI a
 | Project | What it does |
 |---------|-------------|
 | [**Autosapien**](https://autosapien.com) | AI & Robotics — humanoid robots, healthcare AI, industrial automation |
-| [**xEHR**](https://xehr.io) | AI-powered EHR/EMR platform (HIPAA, FHIR, HL7) |
+| [**XEHR**](https://xehr.io) | AI-powered EHR/EMR platform (HIPAA, FHIR, HL7) |
 | [**RCM Employee**](https://rcmemployee.com) | US Medical Billing automation with autonomous agents for the full revenue cycle: registration, eligibility, prior auth, coding, claims, A/R & denials, appeals |
 | [**Skillfull**](https://github.com/DilawarShafiq/skillfull) | Comprehensive US healthcare RCM skills — Medicare, coding, billing |
 
 ## Tech Stack
 
-**Languages:** Python (primary), TypeScript
-**AI:** Claude, GPT, Gemini, LangChain, MCP, agent frameworks, vector DBs, Anthropic SDK
-**Backend:** FastAPI, Click, Rich, asyncio, pytest, Playwright
-**Healthcare:** FHIR, HL7, EDI, HIPAA, ICD-10, CPT, RCM
-
-## The Thesis
-
-> "Everyone is building AI agents. Nobody is watching what they do. That's insane."
-
-I build the infrastructure layer that makes autonomous AI agents safe, observable, and accountable — think Datadog, but for AI agents — plus the AI dev tools and healthcare automation that put agents to real work.
+**Languages:** Python, TypeScript
+**AI:** OpenAI Agents SDK, ADK, LangChain, Crew AI, n8n, MCP, agent frameworks, vector DBs, Anthropic SDK
+**Backend:** FastAPI
+**Healthcare:** FHIR, HL7, EDI, HIPAA, 
 
 ## Let's Connect
 
 - 📍 Based in **Lahore, Pakistan**
 - 🏢 CEO — **[Autosapien](https://autosapien.com)** (AI & Robotics)
-- 🏥 Architect — **[xEHR.io](https://xehr.io)** (AI-powered EHR/EMR)
-- 🤖 Agentic Dev — **[RCM Employee](https://rcmemployee.com)** (Healthcare AI)
+- 🏥 Architect — **[xehr.io](https://xehr.io)** (Agentic EHR/EMR and PM software)
+- 🤖 Architect — **[RCM Employee](https://rcmemployee.com)** (US Healthcare RCM workflow automation with AI)
 - 💬 Always open to collaborating on AI security, agent tooling, and healthcare AI
 
 ---
