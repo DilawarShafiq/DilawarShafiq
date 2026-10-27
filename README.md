@@ -45,9 +45,8 @@ Agentic AI Developer & Robotics Enthusiast · Experienced in US Healthcare Softw
 ## Let's Connect
 
 - 📍 Based in **Lahore, Pakistan**
-- 🏢 CEO — **[Autosapien](https://autosapien.com)** (AI & Robotics)
-- 🏥 Architect — **[xehr.io](https://xehr.io)** (Agentic EHR/EMR and PM software)
-- 🤖 Architect — **[RCM Employee](https://rcmemployee.com)** (US Healthcare RCM workflow automation with AI)
+- 🏥 Software Architect — **[xehr.io](https://xehr.io)** (Agentic EHR/EMR and PM software)
+- 🤖 AI Engineer — **[RCM Employee](https://rcmemployee.com)** (US Healthcare RCM workflow automation with AI)
 - 💬 Always open to collaborating on AI security, agent tooling, and healthcare AI
 
 ---
